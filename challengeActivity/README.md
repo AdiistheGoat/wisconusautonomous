@@ -6,8 +6,8 @@
 
 
 ## Libraries used:
-cv2
-numpy
+-cv2
+-numpy
 
 
 
