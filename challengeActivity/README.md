@@ -2,7 +2,6 @@
 
 
 ## Answer.png:
-:-------------------------:
 ![](https://github.com/AdiistheGoat/wisconusautonomous/blob/main/challengeActivity/answer.png)
 
 
