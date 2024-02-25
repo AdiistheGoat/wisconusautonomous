@@ -1,14 +1,15 @@
 # Wisconsin Autonomous Perception Coding Challenge
-
-
+-
+-
 ## Answer.png:
 ![](https://github.com/AdiistheGoat/wisconusautonomous/blob/main/challengeActivity/answer.png)
-
-
+-
+-
 ## Libraries used:
 - cv2
 - numpy
-
+-
+-
 ## Methodolgy:
 - Color Space Conversion: The code starts by converting the image from the BGR color space to the HSV color space. This conversion facilitates more effective detection of red objects as HSV separates color information from intensity.
 
