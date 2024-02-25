@@ -2,7 +2,7 @@
 
 
 ## Answer.png:
-
+![](https://github.com/WisconsinAutonomous/CodingChallenges/blob/master/perception/red.png)
 
 
 ## Libraries used:
