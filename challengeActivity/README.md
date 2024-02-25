@@ -9,6 +9,9 @@
 - cv2
 - numpy
 
+## Methodolgy:
 
+
+## What did I try and why do I think it did not work:
 
 
