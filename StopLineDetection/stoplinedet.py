@@ -163,4 +163,5 @@ while(vid_capture.isOpened()):
         cv2.imshow("Processed Frames as Video", grid)
         if cv2.waitKey(1) & 0xFF == ord('q'):  # Press 'q' to exit early   # millisecodns it has tow ait before egtting the enxt image
             break
+        print("lrf04 r4")
 cv2.destroyAllWindows()
